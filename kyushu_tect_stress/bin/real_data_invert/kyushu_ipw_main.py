@@ -29,7 +29,7 @@ fault_lat = [32.6, 33.0]
 fault_lon = [130.6, 131.2]
 
 only_ffm_file = '../../data/real_data_invert/FFM/FM_ipw03d456/FM_ipw03d456.csv'
-topography_file = '../../data/real_data_invert/topography/combined_topo_130-132_32-33.5.npy'
+topography_file = '../../data/real_data_invert/topography/demLat_N31_N34_Lon_E129_E133.npy'
 
 density = 2.6
 ffm_path = '../../data/real_data_invert/ipw_topo_stress_combined_python'
